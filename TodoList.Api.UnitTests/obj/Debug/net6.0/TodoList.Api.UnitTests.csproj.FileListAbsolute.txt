@@ -1,0 +1,6 @@
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\obj\Debug\net6.0\TodoList.Api.UnitTests.csproj.AssemblyReference.cache
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\obj\Debug\net6.0\TodoList.Api.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\obj\Debug\net6.0\TodoList.Api.UnitTests.AssemblyInfoInputs.cache
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\obj\Debug\net6.0\TodoList.Api.UnitTests.AssemblyInfo.cs
+C:\Project\Interview\ClearPoint\Backend\TodoList.Api\TodoList.Api.UnitTests\obj\Debug\net6.0\TodoList.Api.UnitTests.csproj.CoreCompileInputs.cache
